@@ -6,7 +6,7 @@
 </a>
 </div>
   
-##Aqui você pode acessar os meus projetos. <br>
+Aqui você pode acessar os meus projetos. <br>
 <a href="https://gabrielitaqui.github.io/Jogo-Pedra_Papel_Tesoura_Lagarto_Spock/" target="_blank">Jogo - Pedra, Papel, Tesoura, Lagarto, Spock</a> </p>
 
 <!--
