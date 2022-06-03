@@ -6,7 +6,7 @@
 </div>
   
 ##Aqui você pode acessar os meus projetos. <br>
-<p> Confira! <a href="[https://www.w3schools.com](https://gabrielitaqui.github.io/Jogo-Pedra_Papel_Tesoura_Lagarto_Spock/)" target="_blank">Jogo - Pedra, Papel, Tesoura, Lagarto, Spock</a> </p>
+<p> Confira! <a href="https://gabrielitaqui.github.io/Jogo-Pedra_Papel_Tesoura_Lagarto_Spock/" target="_blank">Jogo - Pedra, Papel, Tesoura, Lagarto, Spock</a> </p>
 
 <!--
 **GabrielItaqui/gabrielitaqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
