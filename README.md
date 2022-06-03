@@ -1,4 +1,4 @@
-### Hi there 👋
+### Seja Bem vindo ao meu GitHub
 
 <!--
 **GabrielItaqui/gabrielitaqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
