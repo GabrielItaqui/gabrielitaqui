@@ -14,7 +14,11 @@
 </div>
   
 Aqui você pode acessar os meus projetos. <br>
-<a href="https://gabrielitaqui.github.io/Jogo-Pedra_Papel_Tesoura_Lagarto_Spock/" target="_blank">Jogo - Pedra, Papel, Tesoura, Lagarto, Spock</a> </p>
+<a href="https://gabrielitaqui.github.io/Jogo-Pedra_Papel_Tesoura_Lagarto_Spock/" target="_blank">Jogo - Pedra, Papel, Tesoura, Lagarto, Spock</a> <br>
+<a href="https://gabrielitaqui.github.io/mariojumper/" target="_blank">Mario Jumper</a> <br>
+<a href="https://gabrielitaqui.github.io/Projeto-Memory-Game/" target="_blank">Jogo da Memória</a> <br>
+
+
 
 <!--
 **GabrielItaqui/gabrielitaqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
