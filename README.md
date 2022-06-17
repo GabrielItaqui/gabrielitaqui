@@ -17,7 +17,7 @@
   
 Aqui você pode acessar os meus projetos. <br>
 <h1>Projetos HTML CSS</h1>
-<a href=https://gabrielitaqui.github.io/BarbeariaAlura/" target="_blank">Barbearia Alura</a><br>
+<a href="https://gabrielitaqui.github.io/BarbeariaAlura/" target="_blank">Barbearia Alura</a><br>
 <h1>Projetos JavaScript</h1>
 <a href="https://gabrielitaqui.github.io/Jogo-Pedra_Papel_Tesoura_Lagarto_Spock/" target="_blank">Jogo - Pedra, Papel, Tesoura, Lagarto, Spock</a> <br>
 <a href="https://gabrielitaqui.github.io/mariojumper/" target="_blank">Mario Jumper</a> <br>
