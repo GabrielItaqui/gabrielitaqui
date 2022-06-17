@@ -15,7 +15,7 @@
 
 <a href="https://gabrielitaqui.github.io/Curriculo-Gabriel-Itaqui/" target="_blank"> Meu currículo </a> <br>
   
-<h1>Aqui você pode acessar os meus projetos.</h1> <br>
+<h1>Abaixo você pode acessar os meus projetos.</h1> <br>
 <h2>Projetos HTML CSS</h2>
 <a href="https://gabrielitaqui.github.io/BarbeariaAlura/" target="_blank">Barbearia Alura</a><br>
 <h2>Projetos JavaScript</h2>
