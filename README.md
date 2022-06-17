@@ -15,10 +15,10 @@
 
 <a href="https://gabrielitaqui.github.io/Curriculo-Gabriel-Itaqui/" target="_blank"> Meu currículo </a> <br>
   
-Aqui você pode acessar os meus projetos. <br>
-<h1>Projetos HTML CSS</h1>
+<h1>Aqui você pode acessar os meus projetos.</h1> <br>
+<h2>Projetos HTML CSS</h2>
 <a href="https://gabrielitaqui.github.io/BarbeariaAlura/" target="_blank">Barbearia Alura</a><br>
-<h1>Projetos JavaScript</h1>
+<h2>Projetos JavaScript</h2>
 <a href="https://gabrielitaqui.github.io/Jogo-Pedra_Papel_Tesoura_Lagarto_Spock/" target="_blank">Jogo - Pedra, Papel, Tesoura, Lagarto, Spock</a> <br>
 <a href="https://gabrielitaqui.github.io/mariojumper/" target="_blank">Mario Jumper</a> <br>
 <a href="https://gabrielitaqui.github.io/Projeto-Memory-Game/" target="_blank">Jogo da Memória</a> <br>
