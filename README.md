@@ -17,7 +17,7 @@
   
 <h1>Abaixo você pode acessar os meus projetos.</h1> <br>
 <h2>Projetos Pessoais</h2>
-<a href="https://gabrielitaqui.github.io/fichaderpg/" target="_blank">Fica de RPG</a><br>
+<a href="https://gabrielitaqui.github.io/fichaderpg/" target="_blank">Ficha de RPG</a><br>
 <h2>Projetos HTML CSS</h2>
 <a href="https://gabrielitaqui.github.io/BarbeariaAlura/" target="_blank">Barbearia Alura</a><br>
 <a href="https://gabrielitaqui.github.io/Apeperia-Alura/" target="_blank">Apeperia Alura</a><br>
