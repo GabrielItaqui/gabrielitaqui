@@ -17,16 +17,15 @@
   
 <h1>Abaixo você pode acessar os meus projetos.</h1> <br>
 <h2>Projetos Pessoais</h2>
+<h3>Projetos HTML CSS</h3>
 <a href="https://gabrielitaqui.github.io/fichaderpg/" target="_blank">Ficha de RPG</a><br>
-<h2>Projetos HTML CSS</h2>
-<a href="https://gabrielitaqui.github.io/BarbeariaAlura/" target="_blank">Barbearia Alura</a><br>
-<a href="https://gabrielitaqui.github.io/Apeperia-Alura/" target="_blank">Apeperia Alura</a><br>
-<h2>Projetos JavaScript</h2>
+<h3>Projetos JavaScript</h3>
 <a href="https://gabrielitaqui.github.io/Jogo-Pedra_Papel_Tesoura_Lagarto_Spock/" target="_blank">Jogo - Pedra, Papel, Tesoura, Lagarto, Spock</a> <br>
 <a href="https://gabrielitaqui.github.io/mariojumper/" target="_blank">Mario Jumper</a> <br>
 <a href="https://gabrielitaqui.github.io/Projeto-Memory-Game/" target="_blank">Jogo da Memória</a> <br>
-
-
+<h2>Projetos HTML CSS feitos com a Alura</h2>
+<a href="https://gabrielitaqui.github.io/BarbeariaAlura/" target="_blank">Barbearia Alura</a><br>
+<a href="https://gabrielitaqui.github.io/Apeperia-Alura/" target="_blank">Apeperia Alura</a><br>
 
 <!--
 **GabrielItaqui/gabrielitaqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
