@@ -25,7 +25,9 @@
 <a href="https://gabrielitaqui.github.io/Projeto-Memory-Game/" target="_blank">Jogo da Memória</a> <br>
 <h2>Projetos HTML CSS feitos com a Alura</h2>
 <a href="https://gabrielitaqui.github.io/BarbeariaAlura/" target="_blank">Barbearia Alura</a><br>
+<p> Primeiro projeto de HTML CSS com a Alura, principios básicos da plataforma </p>
 <a href="https://gabrielitaqui.github.io/Apeperia-Alura/" target="_blank">Apeperia Alura</a><br>
+<p> Aprendi sobre responsividade e mobile-first </p>
 <a href="https://gabrielitaqui.github.io/arquiteturaCSS/" target="_blank">Fruta & Fruto</a><br>
 <p> Nesse projeto aprendi sobre arquitetura CSS, padrão BEM e mais algumas coisas sobre estilização CSS</p>
 
