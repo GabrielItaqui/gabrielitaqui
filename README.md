@@ -14,6 +14,7 @@
 </div>
 
 <a href="https://gabrielitaqui.github.io/Curriculo-Gabriel-Itaqui/" target="_blank"> Meu currículo </a> <br>
+<a href="https://cursos.alura.com.br/user/itaquigabriel/fullCertificate/4ef2d6781224cd05336eb3111cdb494d" target="_blank">Meu certificado na Alura</a> <br>
   
 <h1>Abaixo você pode acessar os meus projetos.</h1> <br>
 <h2>Projetos Pessoais</h2>
