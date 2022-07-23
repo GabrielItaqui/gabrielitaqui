@@ -33,6 +33,8 @@
 <p> Nesse projeto aprendi sobre arquitetura CSS, padrão BEM e mais algumas coisas sobre estilização CSS</p>
 <a href="https://gabrielitaqui.github.io/CSSGRID/" target="_blank">Alura Store</a><br>
 <p> Nesse projeto aprendi sobre CSS GRID e aprofundei sobre responsividade mobile</p>
+<a href="https://gabrielitaqui.github.io/aluramidi/" target="_blank">Alura Midi</a><br>
+<p> Nesse projeto aprendi sobre integração JavaScript em um projeto HTMLCSS</p>
 <!--
 **GabrielItaqui/gabrielitaqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
