@@ -35,6 +35,8 @@
 <p> Nesse projeto aprendi sobre CSS GRID e aprofundei sobre responsividade mobile</p>
 <a href="https://gabrielitaqui.github.io/aluramidi/" target="_blank">Alura Midi</a><br>
 <p> Nesse projeto aprendi sobre integração JavaScript em um projeto HTMLCSS</p>
+<a href="https://aluraplus-mxj04apjh-gabrielitaqui.vercel.app/" target="_blank">Alura Plus</a><br>
+<p> Nesse projeto aprimorei meus conhecimentos sobre grid layout e construção básica de uma pagima.</p>
 <!--
 **GabrielItaqui/gabrielitaqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
