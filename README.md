@@ -5,7 +5,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielitaqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
 
-<h2> Clique <a href="https://gabrielitaqui.github.io/Portfolio/"> AQUI </a> e confira o meu portfolio.!! </h2>
+<h2> Clique <a href="https://gabrielitaqui.github.io/Portfolio/"> AQUI </a> e confira o meu portfolio!! </h2>
 </div>
 
 ### Contatos:
