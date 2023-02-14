@@ -24,6 +24,6 @@
 <a href="https://editor.p5js.org/GabrielItaqui/sketches/VUEtwl1Zp"> Jogo: Pong</a>
 <p> Feito em JavaScript usando a plataforma P5JS você pode conferir meu código e apertar play para testar </p>
 <a href="https://editor.p5js.org/GabrielItaqui/sketches/rE18eFX5c"> Jogo: Freeway</a>
-<p> Feito em JavaScript usando a plataforma P5JS, você pode conferir meu código e apertar play para testar </p>
+<p> JavaScrip HTML e CSS - Laços e Listas </p>
 
 
