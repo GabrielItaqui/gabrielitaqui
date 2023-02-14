@@ -19,12 +19,12 @@
 <a href="https://cursos.alura.com.br/user/itaquigabriel/fullCertificate/4ef2d6781224cd05336eb3111cdb494d" target="_blank">Minhas formações na Alura</a> <br>
   
 <h1>Abaixo você pode acessar os meus projetos.</h1> <br>
-<a href="https://scratch.mit.edu/projects/803011211" target="_blank"> Jogo: Pong </a><br>
+<a href="https://scratch.mit.edu/projects/803011211" target="_blank"> Jogo: Pong </a>
 <p> Feito pelo Scratch. </p>
-<a href="https://editor.p5js.org/GabrielItaqui/sketches/VUEtwl1Zp"> Jogo: Pong </a><br>
-<p> Feito em JavaScript usando a plataforma P5JS você pode conferir meu código e apertar play para testar </p><br>
+<a href="https://editor.p5js.org/GabrielItaqui/sketches/VUEtwl1Zp"> Jogo: Pong </a>
+<p> Feito em JavaScript usando a plataforma P5JS você pode conferir meu código e apertar play para testar </p>
 
-<a href="https://editor.p5js.org/GabrielItaqui/sketches/rE18eFX5c"> Jogo: Freeway </a><br>
-<p> Feito em JavaScript usando a plataforma P5JS, você pode conferir meu código e apertar play para testar </p><br>
+<a href="https://editor.p5js.org/GabrielItaqui/sketches/rE18eFX5c"> Jogo: Freeway </a>
+<p> Feito em JavaScript usando a plataforma P5JS, você pode conferir meu código e apertar play para testar </p>
 
 
