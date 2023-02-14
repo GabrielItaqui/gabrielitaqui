@@ -26,4 +26,6 @@
 <a href="https://editor.p5js.org/GabrielItaqui/sketches/rE18eFX5c"> Jogo: Freeway</a>
 <p> JavaScrip HTML e CSS - Aprendi o conceito de laços e listas</p>
 
-
+<h3>Cursos Concluidos pela Alura:</h3>
+<p> Lógica de Programação I</p>
+<p> Lógica de Programação II</p>
