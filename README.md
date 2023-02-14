@@ -19,3 +19,5 @@
 <h1>Abaixo você pode acessar os meus projetos.</h1> <br>
 <a href="https://scratch.mit.edu/projects/803011211" target="_blank"> Jogo: Pong </a><br>
 <p> Feito pelo Scratch. </p>
+<a> href="https://editor.p5js.org/GabrielItaqui/sketches/VUEtwl1Zp"> Jogo: Pong </a><br>
+<p> Feito em JavaScript, você pode conferir meu código e apertar play para testar </p>
