@@ -27,5 +27,5 @@
 <p> JavaScrip HTML e CSS - Aprendi o conceito de laços e listas</p>
 
 <h3>Cursos Concluidos pela Alura:</h3>
-<p> Lógica de Programação I</p>
-<p> Lógica de Programação II</p>
+<p> Lógica de Programação I - 6 horas</p>
+<p> Lógica de Programação II - 4 horas</p>
