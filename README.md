@@ -19,7 +19,7 @@
 <a href="https://cursos.alura.com.br/user/itaquigabriel/fullCertificate/4ef2d6781224cd05336eb3111cdb494d" target="_blank">Minhas formações na Alura</a> <br>
   
 <h1>Abaixo você pode acessar os meus projetos.</h1> <br>
-<a href="https://scratch.mit.edu/projects/803011211" target="_blank"> Jogo: Pong</a>
+
 <p> Feito pelo Scratch. </p>
 <a href="https://editor.p5js.org/GabrielItaqui/sketches/VUEtwl1Zp"> Jogo: Pong</a>
 <p> Feito em JavaScript usando a plataforma P5JS você pode conferir meu código e apertar play para testar </p>
@@ -28,7 +28,7 @@
 
 <h3>Cursos Concluidos pela Alura (22 horas):</h3>
 <ul>
-  <li> Lógica de Programação I - 6 horas</li>
+  <li> Lógica de Programação I - 6 horas <a href="https://scratch.mit.edu/projects/803011211" target="_blank"> Projeto do Curso:Jogo Pont (Scratch)</a></li>
   <li> Lógica de Programação II - 4 horas</li>
   <li> Arquitetura Computacional - 8 horas</li>
   <li> Linux I - Conhecendo o Terminal - 4 horas</li>
