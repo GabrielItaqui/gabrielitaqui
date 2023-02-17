@@ -26,9 +26,9 @@
 <a href="https://editor.p5js.org/GabrielItaqui/sketches/rE18eFX5c"> Jogo: Freeway</a>
 <p> JavaScrip HTML e CSS - Aprendi o conceito de laços e listas</p>
 
-<h3>Cursos Concluidos pela Alura:</h3>
+<h3>Cursos Concluidos pela Alura (22 horas):</h3>
 <ul>
   <li> Lógica de Programação I - 6 horas</li>
   <li> Lógica de Programação II - 4 horas</li>
-  <li> Arquitetura Computacional </li>
-  <li> Linux I - Conhecendo o Terminal</li>
+  <li> Arquitetura Computacional - 8 horas</li>
+  <li> Linux I - Conhecendo o Terminal - 4 horas</li>
