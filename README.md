@@ -28,7 +28,7 @@
 
 <h3>Cursos Concluidos pela Alura (22 horas):</h3>
 <ul>
-  <li> Lógica de Programação I - 6 horas <a href="https://scratch.mit.edu/projects/803011211" target="_blank"> Projeto do Curso:Jogo Pont (Scratch)</a></li>
+  <li> Lógica de Programação I - 6 horas <a href="https://scratch.mit.edu/projects/803011211" target="_blank"> Projeto do Curso: Jogo Pong (Scratch)</a></li>
   <li> Lógica de Programação II - 4 horas</li>
   <li> Arquitetura Computacional - 8 horas</li>
   <li> Linux I - Conhecendo o Terminal - 4 horas</li>
