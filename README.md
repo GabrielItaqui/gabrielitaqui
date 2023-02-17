@@ -17,14 +17,6 @@
 
 <a href="https://gabrielitaqui.github.io/Curriculo-Gabriel-Itaqui/" target="_blank"> Meu currículo </a> <br>
 <a href="https://cursos.alura.com.br/user/itaquigabriel/fullCertificate/4ef2d6781224cd05336eb3111cdb494d" target="_blank">Minhas formações na Alura</a> <br>
-  
-<h1>Abaixo você pode acessar os meus projetos.</h1> <br>
-
-<p> Feito pelo Scratch. </p>
-
-<p> Feito em JavaScript usando a plataforma P5JS você pode conferir meu código e apertar play para testar </p>
-
-<p> JavaScrip HTML e CSS - Aprendi o conceito de laços e listas</p>
 
 <h3>Cursos Concluidos pela Alura (22 horas):</h3>
 <ul>
