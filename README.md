@@ -28,6 +28,7 @@
 
 <h3>Cursos Concluidos pela Alura:</h3>
 <ul>
-  <li><p> Lógica de Programação I - 6 horas</p></li>
-<p> Lógica de Programação II - 4 horas</p>
-<p> Arquitetura Computacional </p>
+  <li> Lógica de Programação I - 6 horas</li>
+  <li> Lógica de Programação II - 4 horas</li>
+  <li> Arquitetura Computacional </li>
+  <li> Linux I - Conhecendo o Terminal</li>
