@@ -99,30 +99,30 @@ Conteúdos complementares:
 
   <h4>Formação: A partir do zero: iniciante em programação - 75hs</h4>
   <ul>
-    <li>Lógica de programação: comece em lógica com o jogo Pong e JavaScript (de 01/02/2022 a 10/02/2022) 6hrs
-    <li>Lógica de programação: laços e listas com JavaScript (de 10/02/2022 a 14/02/2022) 4hrs
-    <li>Arquitetura de computadores: por trás de como seu programa funciona (de 26/02/2022 a 26/02/2022) 8hrs
-    <li>Linux I: conhecendo e utilizando o terminal (de 26/02/2022 a 26/02/2022) 4hrs
-    <li>HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags (de 21/01/2023 a 24/01/2023) 8hrs
-    <li>HTML e CSS: Classes, posicionamento e Flexbox (de 23/02/2023 a 28/02/2023) 8hrs
-    <li>HTML e CSS: cabeçalho, footer e variáveis CSS (de 28/02/2023 a 01/03/2023) 6hrs
-    <li>HTML e CSS: trabalhando com responsividade e publicação de projetos (de 01/03/2023 a 01/03/2023) 6hrs
-    <li>JavaScript para Web: Crie páginas dinâmicas (de 26/02/2022 a 21/03/2022) 10hrs
-    <li>Git e GitHub: repositório, commit e versões (de 03/02/2023 a 01/03/2023) 8hrs
+    <li>Lógica de programação: comece em lógica com o jogo Pong e JavaScript (de 01/02/2022 a 10/02/2022) 6hrs</li>
+    <li>Lógica de programação: laços e listas com JavaScript (de 10/02/2022 a 14/02/2022) 4hrs</li>
+    <li>Arquitetura de computadores: por trás de como seu programa funciona (de 26/02/2022 a 26/02/2022) 8hrs</li>
+    <li>Linux I: conhecendo e utilizando o terminal (de 26/02/2022 a 26/02/2022) 4hrs</li>
+    <li>HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags (de 21/01/2023 a 24/01/2023) 8hrs</li>
+    <li>HTML e CSS: Classes, posicionamento e Flexbox (de 23/02/2023 a 28/02/2023) 8hrs</li>
+    <li>HTML e CSS: cabeçalho, footer e variáveis CSS (de 28/02/2023 a 01/03/2023) 6hrs</li>
+    <li>HTML e CSS: trabalhando com responsividade e publicação de projetos (de 01/03/2023 a 01/03/2023) 6hrs</li>
+    <li>JavaScript para Web: Crie páginas dinâmicas (de 26/02/2022 a 21/03/2022) 10hrs</li>
+    <li>Git e GitHub: repositório, commit e versões (de 03/02/2023 a 01/03/2023) 8hrs</li>
 Conteúdos complementares:
-    <li>Alura+: Qual é a diferenca entre back-end e front-end? - 14min
-    <li>Hipsters: CSS: Cansei de Ser Simples – Hipsters #09 - 50min
-    <li>Alura+: EMMET: Instalação e comandos no Atom - 12min
-    <li>Alura+: Data Attributes do HTML5 - 12min
-    <li>Artigo: 5 dúvidas de quem quer iniciar na carreira de programação - Blog da Caelum: desenvolvimento, web, mobile, UX e Scrum - 30min
-    <li>Artigo: Como escolher minha carreira em TI? | Alura Cursos Online - 30min
-    <li>Artigo: Trabalhando com caminhos e pastas no terminal | Alura Cursos Online - 30min
-    <li>Artigo: HTML, CSS e Javascript, quais as diferenças? | Alura Cursos Online - 30min
-    <li>Artigo: Centralizando um elemento com CSS - Blog da Alura - 30min
-    <li>Artigo: Guia de Unidades no CSS - Blog da Alura - 30min
-    <li>Artigo: Capturando valor do input: introdução a seletores - Blog da Alura - 30min
-    <li>Artigo: Como escrever um README incrível no seu Github - 30min
-    <li>Video: Alura Live #59 - Como entrar no mercado de trabalho de programação? - YouTube - 60min
+    <li>Alura+: Qual é a diferenca entre back-end e front-end? - 14min</li>
+    <li>Hipsters: CSS: Cansei de Ser Simples – Hipsters #09 - 50min</li>
+    <li>Alura+: EMMET: Instalação e comandos no Atom - 12min</li>
+    <li>Alura+: Data Attributes do HTML5 - 12min</li>
+    <li>Artigo: 5 dúvidas de quem quer iniciar na carreira de programação - Blog da Caelum: desenvolvimento, web, mobile, UX e Scrum - 30min</li>
+    <li>Artigo: Como escolher minha carreira em TI? | Alura Cursos Online - 30min</li>
+    <li>Artigo: Trabalhando com caminhos e pastas no terminal | Alura Cursos Online - 30min</li>
+    <li>Artigo: HTML, CSS e Javascript, quais as diferenças? | Alura Cursos Online - 30min</li>
+    <li>Artigo: Centralizando um elemento com CSS - Blog da Alura - 30min</li>
+    <li>Artigo: Guia de Unidades no CSS - Blog da Alura - 30min</li>
+    <li>Artigo: Capturando valor do input: introdução a seletores - Blog da Alura - 30min</li>
+    <li>Artigo: Como escrever um README incrível no seu Github - 30min</li>
+    <li>Video: Alura Live #59 - Como entrar no mercado de trabalho de programação? - YouTube - 60min</li>
   </ul>
 
     Formação: Iniciante em Programação - 79hs
