@@ -26,7 +26,6 @@
   <li> Linux I - Conhecendo o Terminal - 4 horas</li>
   <li> HTML I - Estrutura e Tags - 8 horas</li>
 
-
   <h4>Formação: A partir do zero: crie projetos em Dart, a linguagem utilizada no Flutter - 55hs</h4>
   <ul>
     <li>Dart: criando e manipulando variáveis e listas (de 09/03/2023 a 11/03/2023) 10hrs</li>
@@ -45,7 +44,6 @@
     <li>Artigo: Construtores no Dart: conhecendo tipos de construtores e como usá-los - 30min</li>
     <li>Video: Conclusao Formacao Dart - YouTube - 60min</li>
   </ul>
-
   <h4>Formação: Iniciante em Programação - 79hs</h4>
   <ul>
     <li>Lógica de programação: comece em lógica com o jogo Pong e JavaScript (de 01/02/2022 a 10/02/2022) 6hrs</li>
@@ -58,7 +56,7 @@
     <li>Git e GitHub: repositório, commit e versões (de 03/02/2023 a 01/03/2023) 8hrs</li>
     <li>Arquitetura de computadores: por trás de como seu programa funciona (de 26/02/2022 a 26/02/2022) 8hrs</li>
     <li>Linux I: conhecendo e utilizando o terminal (de 26/02/2022 a 26/02/2022) 4hrs</li>
-Conteúdos complementares:
+    Conteúdos complementares:
     <li>Alura+: Qual é a diferenca entre back-end e front-end? - 14min</li>
     <li>Hipsters: CSS: Cansei de Ser Simples – Hipsters #09 - 50min</li>
     <li>Alura+: EMMET: Instalação e comandos no Atom - 12min</li>
@@ -82,7 +80,7 @@ Conteúdos complementares:
     <li>Algoritmos com JavaScript II: aprofundando em algoritmos de ordenação e busca (de 09/05/2022 a 09/05/2022) 10hrs
     <li>Node.js: criando sua primeira biblioteca (de 13/01/2023 a 19/01/2023) 12hrs
     <li>JavaScript: programação orientada a objetos (de 19/05/2022 a 30/05/2022) 10hrs
-Conteúdos complementares:
+    Conteúdos complementares:
     <li>Alura+: NodeJS: o que é e como funciona - 25min</li>
     <li>Video: Diferença entre Back-End e Front-End com Mario Souto | #HipstersPontoTube - YouTube - 60min</li>
     <li>Artigo: Higher Order Functions: o que são? | Alura Cursos Online - 30min</li>
@@ -96,7 +94,7 @@ Conteúdos complementares:
     <li>Artigo: Como instalar o Node.js no Windows, Linux e macOS - 30min</li>
     <li>Artigo: Lidando com erros no Node.js | Alura - 30min</li>
     <li>Artigo: Async/await no JavaScript: o que é e quando usar a programação assíncrona? | Alura Cursos Online - 30min</li>
-
+  </ul>
   <h4>Formação: A partir do zero: iniciante em programação - 75hs</h4>
   <ul>
     <li>Lógica de programação: comece em lógica com o jogo Pong e JavaScript (de 01/02/2022 a 10/02/2022) 6hrs</li>
@@ -109,7 +107,7 @@ Conteúdos complementares:
     <li>HTML e CSS: trabalhando com responsividade e publicação de projetos (de 01/03/2023 a 01/03/2023) 6hrs</li>
     <li>JavaScript para Web: Crie páginas dinâmicas (de 26/02/2022 a 21/03/2022) 10hrs</li>
     <li>Git e GitHub: repositório, commit e versões (de 03/02/2023 a 01/03/2023) 8hrs</li>
-Conteúdos complementares:
+    Conteúdos complementares:
     <li>Alura+: Qual é a diferenca entre back-end e front-end? - 14min</li>
     <li>Hipsters: CSS: Cansei de Ser Simples – Hipsters #09 - 50min</li>
     <li>Alura+: EMMET: Instalação e comandos no Atom - 12min</li>
@@ -125,7 +123,7 @@ Conteúdos complementares:
     <li>Video: Alura Live #59 - Como entrar no mercado de trabalho de programação? - YouTube - 60min</li>
   </ul>
 
-    Formação: Iniciante em Programação - 79hs
+Formação: Iniciante em Programação - 79hs
 Cursos:
 Lógica de programação: comece em lógica com o jogo Pong e JavaScript (de 01/02/2022 a 10/02/2022) 6hrs
 Lógica de programação: laços e listas com JavaScript (de 10/02/2022 a 14/02/2022) 4hrs
