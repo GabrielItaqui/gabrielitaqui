@@ -20,7 +20,8 @@
 
 <h3> Projetos </h3>
   <ul>
-  <li><a href="https://gabrielitaqui.github.io/alurabooks/">AluraBooks</a> - Foi utilizado HTML, CSS e Importação de API's em JavaScript<li>
+  <li><a href="https://gabrielitaqui.github.io/alurabooks/">AluraBooks</a> - Foi utilizado HTML, CSS e Importação de API's em JavaScript</li>
+  <li><a href="https://gabrielitaqui.github.io/mochilaViagem/">Mochila de Viagem</a> - Projeto com HTML CSS e JavaScript</li>
 
 <h3>Cursos Concluidos pela Alura (487 horas):</h3>
 
