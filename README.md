@@ -73,31 +73,30 @@ Conteúdos complementares:
     <li>Video: Alura Live #59 - Como entrar no mercado de trabalho de programação? - YouTube - 60min</li>
     <li>Artigo: Trabalhando com caminhos e pastas no terminal | Alura Cursos Online - 30min</li>
   </ul>
-Ocultar Formação
-Formação: Aprenda a programar em JavaScript com foco no back-end - 74hs
-Cursos:
-JavaScript: tipos, variáveis e funções (de 18/02/2022 a 22/02/2022) 12hrs
-JavaScript: Arrays (de 05/01/2023 a 05/01/2023) 8hrs
-JavaScript: objetos (de 05/01/2023 a 06/01/2023) 8hrs
-JavaScript I: algoritmos de ordenação (de 30/04/2022 a 06/05/2022) 8hrs
-Algoritmos com JavaScript II: aprofundando em algoritmos de ordenação e busca (de 09/05/2022 a 09/05/2022) 10hrs
-Node.js: criando sua primeira biblioteca (de 13/01/2023 a 19/01/2023) 12hrs
-JavaScript: programação orientada a objetos (de 19/05/2022 a 30/05/2022) 10hrs
+  <h4>Formação: Aprenda a programar em JavaScript com foco no back-end - 74hs</h4>
+<ul>
+  <li>JavaScript: tipos, variáveis e funções (de 18/02/2022 a 22/02/2022) 12hrs
+  <li>JavaScript: Arrays (de 05/01/2023 a 05/01/2023) 8hrs
+  <li>JavaScript: objetos (de 05/01/2023 a 06/01/2023) 8hrs
+  <li>JavaScript I: algoritmos de ordenação (de 30/04/2022 a 06/05/2022) 8hrs
+  <li>Algoritmos com JavaScript II: aprofundando em algoritmos de ordenação e busca (de 09/05/2022 a 09/05/2022) 10hrs
+  <li>Node.js: criando sua primeira biblioteca (de 13/01/2023 a 19/01/2023) 12hrs
+  <li>JavaScript: programação orientada a objetos (de 19/05/2022 a 30/05/2022) 10hrs
 Conteúdos complementares:
-Alura+: NodeJS: o que é e como funciona - 25min
-Video: Diferença entre Back-End e Front-End com Mario Souto | #HipstersPontoTube - YouTube - 60min
-Artigo: Higher Order Functions: o que são? | Alura Cursos Online - 30min
-Artigo: Strings com JavaScript: o que são e como manipulá-las | Alura Cursos Online - 30min
-Site: Classes x funções no Javascript | #AluraMais - YouTube - 0min
-Site: Destructuring em JavaScript #AluraMais - YouTube - 0min
-Artigo: Algoritmos e Lógica de programação: O que é isso e por quê é importante? | Alura Cursos Online - 30min
-Artigo: Estruturas de dados: uma introdução | Alura Cursos Online - 30min
-Artigo: Por que estudar algoritmos? | Alura Cursos Online - 30min
-Artigo: Ordenação de números no JavaScript não funciona? | Alura Cursos Online - 30min
-Artigo: Como instalar o Node.js no Windows, Linux e macOS - 30min
-Artigo: Lidando com erros no Node.js | Alura - 30min
-Artigo: Async/await no JavaScript: o que é e quando usar a programação assíncrona? | Alura Cursos Online - 30min
-Ocultar Formação
+  <li>Alura+: NodeJS: o que é e como funciona - 25min</li>
+  <li>Video: Diferença entre Back-End e Front-End com Mario Souto | #HipstersPontoTube - YouTube - 60min</li>
+  <li>Artigo: Higher Order Functions: o que são? | Alura Cursos Online - 30min</li>
+  <li>Artigo: Strings com JavaScript: o que são e como manipulá-las | Alura Cursos Online - 30min</li>
+  <li>Site: Classes x funções no Javascript | #AluraMais - YouTube - 0min</li>
+  <li>Site: Destructuring em JavaScript #AluraMais - YouTube - 0min</li>
+  <li>Artigo: Algoritmos e Lógica de programação: O que é isso e por quê é importante? | Alura Cursos Online - 30min</li>
+  <li>Artigo: Estruturas de dados: uma introdução | Alura Cursos Online - 30min</li>
+  <li>Artigo: Por que estudar algoritmos? | Alura Cursos Online - 30min</li>
+  <li>Artigo: Ordenação de números no JavaScript não funciona? | Alura Cursos Online - 30min</li>
+  <li>Artigo: Como instalar o Node.js no Windows, Linux e macOS - 30min</li>
+  <li>Artigo: Lidando com erros no Node.js | Alura - 30min</li>
+  <li>Artigo: Async/await no JavaScript: o que é e quando usar a programação assíncrona? | Alura Cursos Online - 30min</li>
+
 Formação: A partir do zero: iniciante em programação - 75hs
 Cursos:
 Lógica de programação: comece em lógica com o jogo Pong e JavaScript (de 01/02/2022 a 10/02/2022) 6hrs
