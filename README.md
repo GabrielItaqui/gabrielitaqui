@@ -20,10 +20,23 @@
 
 <h3> Projetos </h3>
   <ul>
-  <li><a href="https://gabrielitaqui.github.io/alurabooks/">AluraBooks</a> - Foi utilizado HTML, CSS e Importação de API's em JavaScript</li>
-  <li><a href="https://gabrielitaqui.github.io/mochilaViagem/">Mochila de Viagem</a> - Projeto com HTML CSS e JavaScript</li>
-  <li><a href="https://gabrielitaqui.github.io/aluraplus/"> AluraPlus</a> - Projeto com HTML e CSS</li>
-
+  <h4> Proetos Feitos com a Alura</h4>
+    <li><a href="https://gabrielitaqui.github.io/alurabooks/">AluraBooks</a> - Foi utilizado HTML, CSS e Importação de API's em JavaScript</li>
+    <li><a href="https://gabrielitaqui.github.io/mochilaViagem/">Mochila de Viagem</a> - Projeto com HTML CSS e JavaScript</li>
+    <li><a href="https://gabrielitaqui.github.io/aluraplus/"> AluraPlus</a> - Projeto com HTML e CSS</li>
+    <li><a href="https://gabrielitaqui.github.io/aluramidi/"> AluraMidi</a> - Projeto com HTML CSS e JavaScript</li>
+    <li><a href="https://gabrielitaqui.github.io/CSSGRID/"> AluraStore</a> - Projeto em HTML e CSS, utilizando de CSS Grid e Responsividade Mobile</li>
+    <li><a href="https://gabrielitaqui.github.io/arquiteturaCSS/"> Fruta & Fruto</a> - Projeto em HTML e CSS - utilizando os conhecimentos de Arquitetura CSS</li>
+    <li><a href="https://gabrielitaqui.github.io/Apeperia-Alura/">Apeperia Alura</a> - Projeto em HTML e CSS</li>
+    <li><a href="https://gabrielitaqui.github.io/BarbeariaAlura/">Barbearia Alura</a> - Primeiro projeto com HTML e CSS</li>
+  </ul>
+  <h4> Projetos Pessoais</h4>
+  <ul>
+    <li><a href="https://gabrielitaqui.github.io/mariojumper/">Mario Jumper</a> - Projeto utilizando HTML CSS e JavaScript para desenvolver um jogo do mário estilo ao jogo do Google</li>
+    <li><a href="https://gabrielitaqui.github.io/Jogo-Pedra_Papel_Tesoura_Lagarto_Spock/">Pedra, Papel, Tesoura, Lagarto, Spock</a> - Jogo baseado em The Big Bang Theory</li>
+    <li><a href="https://gabrielitaqui.github.io/Projeto-Memory-Game/">Jogo da Memória</a> - Jogo da memória com imagens da Nintendo</li>
+  </ul>
+   
 <h3>Cursos Concluidos pela Alura (487 horas):</h3>
 
   <h4>Formação: Iniciante em Programação - 79hs</h4>
