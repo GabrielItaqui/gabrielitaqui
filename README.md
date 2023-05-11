@@ -18,14 +18,7 @@
 <a href="https://gabrielitaqui.github.io/Curriculo-Gabriel-Itaqui/" target="_blank"> Meu currículo </a> <br>
 <a href="https://cursos.alura.com.br/user/itaquigabriel/fullCertificate/4ef2d6781224cd05336eb3111cdb494d" target="_blank">Minhas formações na Alura</a> <br>
 
-<h3>Cursos Concluidos pela Alura (30 horas):</h3>
-<ul>
-  <li> Lógica de Programação I - 6 horas <a href="https://scratch.mit.edu/projects/803011211" target="_blank"> Projeto I: Jogo Pong (Scratch)</a> <a href="https://editor.p5js.org/GabrielItaqui/sketches/VUEtwl1Zp"> Projeto II: Jogo Pong (JavaScript)</a> </li>
-  <li> Lógica de Programação II - 4 horas <a href="https://editor.p5js.org/GabrielItaqui/sketches/rE18eFX5c"> Projeto I: Jogo Freeway</a> </li>
-  <li> Arquitetura Computacional - 8 horas</li>
-  <li> Linux I - Conhecendo o Terminal - 4 horas</li>
-  <li> HTML I - Estrutura e Tags - 8 horas</li>
-
+<h3>Cursos Concluidos pela Alura (676 horas):</h3>
   <h4>Formação: A partir do zero: crie projetos em Dart, a linguagem utilizada no Flutter - 55hs</h4>
   <ul>
     <li>Dart: criando e manipulando variáveis e listas (de 09/03/2023 a 11/03/2023) 10hrs</li>
