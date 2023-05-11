@@ -20,7 +20,7 @@
 
 <h3> Projetos </h3>
   <ul>
-  <h4> Proetos Feitos com a Alura</h4>
+  <h4>Projetos Feitos com a Alura</h4>
     <li><a href="https://gabrielitaqui.github.io/alurabooks/">AluraBooks</a> - Foi utilizado HTML, CSS e Importação de API's em JavaScript</li>
     <li><a href="https://gabrielitaqui.github.io/mochilaViagem/">Mochila de Viagem</a> - Projeto com HTML CSS e JavaScript</li>
     <li><a href="https://gabrielitaqui.github.io/aluraplus/"> AluraPlus</a> - Projeto com HTML e CSS</li>
@@ -30,8 +30,8 @@
     <li><a href="https://gabrielitaqui.github.io/Apeperia-Alura/">Apeperia Alura</a> - Projeto em HTML e CSS</li>
     <li><a href="https://gabrielitaqui.github.io/BarbeariaAlura/">Barbearia Alura</a> - Primeiro projeto com HTML e CSS</li>
   </ul>
-  <h4> Projetos Pessoais</h4>
   <ul>
+  <h4> Projetos Pessoais</h4>
     <li><a href="https://gabrielitaqui.github.io/mariojumper/">Mario Jumper</a> - Projeto utilizando HTML CSS e JavaScript para desenvolver um jogo do mário estilo ao jogo do Google</li>
     <li><a href="https://gabrielitaqui.github.io/Jogo-Pedra_Papel_Tesoura_Lagarto_Spock/">Pedra, Papel, Tesoura, Lagarto, Spock</a> - Jogo baseado em The Big Bang Theory</li>
     <li><a href="https://gabrielitaqui.github.io/Projeto-Memory-Game/">Jogo da Memória</a> - Jogo da memória com imagens da Nintendo</li>
