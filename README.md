@@ -74,57 +74,58 @@ Conteúdos complementares:
     <li>Artigo: Trabalhando com caminhos e pastas no terminal | Alura Cursos Online - 30min</li>
   </ul>
   <h4>Formação: Aprenda a programar em JavaScript com foco no back-end - 74hs</h4>
-<ul>
-  <li>JavaScript: tipos, variáveis e funções (de 18/02/2022 a 22/02/2022) 12hrs
-  <li>JavaScript: Arrays (de 05/01/2023 a 05/01/2023) 8hrs
-  <li>JavaScript: objetos (de 05/01/2023 a 06/01/2023) 8hrs
-  <li>JavaScript I: algoritmos de ordenação (de 30/04/2022 a 06/05/2022) 8hrs
-  <li>Algoritmos com JavaScript II: aprofundando em algoritmos de ordenação e busca (de 09/05/2022 a 09/05/2022) 10hrs
-  <li>Node.js: criando sua primeira biblioteca (de 13/01/2023 a 19/01/2023) 12hrs
-  <li>JavaScript: programação orientada a objetos (de 19/05/2022 a 30/05/2022) 10hrs
+  <ul>
+    <li>JavaScript: tipos, variáveis e funções (de 18/02/2022 a 22/02/2022) 12hrs
+    <li>JavaScript: Arrays (de 05/01/2023 a 05/01/2023) 8hrs
+    <li>JavaScript: objetos (de 05/01/2023 a 06/01/2023) 8hrs
+    <li>JavaScript I: algoritmos de ordenação (de 30/04/2022 a 06/05/2022) 8hrs
+    <li>Algoritmos com JavaScript II: aprofundando em algoritmos de ordenação e busca (de 09/05/2022 a 09/05/2022) 10hrs
+    <li>Node.js: criando sua primeira biblioteca (de 13/01/2023 a 19/01/2023) 12hrs
+    <li>JavaScript: programação orientada a objetos (de 19/05/2022 a 30/05/2022) 10hrs
 Conteúdos complementares:
-  <li>Alura+: NodeJS: o que é e como funciona - 25min</li>
-  <li>Video: Diferença entre Back-End e Front-End com Mario Souto | #HipstersPontoTube - YouTube - 60min</li>
-  <li>Artigo: Higher Order Functions: o que são? | Alura Cursos Online - 30min</li>
-  <li>Artigo: Strings com JavaScript: o que são e como manipulá-las | Alura Cursos Online - 30min</li>
-  <li>Site: Classes x funções no Javascript | #AluraMais - YouTube - 0min</li>
-  <li>Site: Destructuring em JavaScript #AluraMais - YouTube - 0min</li>
-  <li>Artigo: Algoritmos e Lógica de programação: O que é isso e por quê é importante? | Alura Cursos Online - 30min</li>
-  <li>Artigo: Estruturas de dados: uma introdução | Alura Cursos Online - 30min</li>
-  <li>Artigo: Por que estudar algoritmos? | Alura Cursos Online - 30min</li>
-  <li>Artigo: Ordenação de números no JavaScript não funciona? | Alura Cursos Online - 30min</li>
-  <li>Artigo: Como instalar o Node.js no Windows, Linux e macOS - 30min</li>
-  <li>Artigo: Lidando com erros no Node.js | Alura - 30min</li>
-  <li>Artigo: Async/await no JavaScript: o que é e quando usar a programação assíncrona? | Alura Cursos Online - 30min</li>
+    <li>Alura+: NodeJS: o que é e como funciona - 25min</li>
+    <li>Video: Diferença entre Back-End e Front-End com Mario Souto | #HipstersPontoTube - YouTube - 60min</li>
+    <li>Artigo: Higher Order Functions: o que são? | Alura Cursos Online - 30min</li>
+    <li>Artigo: Strings com JavaScript: o que são e como manipulá-las | Alura Cursos Online - 30min</li>
+    <li>Site: Classes x funções no Javascript | #AluraMais - YouTube - 0min</li>
+    <li>Site: Destructuring em JavaScript #AluraMais - YouTube - 0min</li>
+    <li>Artigo: Algoritmos e Lógica de programação: O que é isso e por quê é importante? | Alura Cursos Online - 30min</li>
+    <li>Artigo: Estruturas de dados: uma introdução | Alura Cursos Online - 30min</li>
+    <li>Artigo: Por que estudar algoritmos? | Alura Cursos Online - 30min</li>
+    <li>Artigo: Ordenação de números no JavaScript não funciona? | Alura Cursos Online - 30min</li>
+    <li>Artigo: Como instalar o Node.js no Windows, Linux e macOS - 30min</li>
+    <li>Artigo: Lidando com erros no Node.js | Alura - 30min</li>
+    <li>Artigo: Async/await no JavaScript: o que é e quando usar a programação assíncrona? | Alura Cursos Online - 30min</li>
 
-Formação: A partir do zero: iniciante em programação - 75hs
-Cursos:
-Lógica de programação: comece em lógica com o jogo Pong e JavaScript (de 01/02/2022 a 10/02/2022) 6hrs
-Lógica de programação: laços e listas com JavaScript (de 10/02/2022 a 14/02/2022) 4hrs
-Arquitetura de computadores: por trás de como seu programa funciona (de 26/02/2022 a 26/02/2022) 8hrs
-Linux I: conhecendo e utilizando o terminal (de 26/02/2022 a 26/02/2022) 4hrs
-HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags (de 21/01/2023 a 24/01/2023) 8hrs
-HTML e CSS: Classes, posicionamento e Flexbox (de 23/02/2023 a 28/02/2023) 8hrs
-HTML e CSS: cabeçalho, footer e variáveis CSS (de 28/02/2023 a 01/03/2023) 6hrs
-HTML e CSS: trabalhando com responsividade e publicação de projetos (de 01/03/2023 a 01/03/2023) 6hrs
-JavaScript para Web: Crie páginas dinâmicas (de 26/02/2022 a 21/03/2022) 10hrs
-Git e GitHub: repositório, commit e versões (de 03/02/2023 a 01/03/2023) 8hrs
+  <h4>Formação: A partir do zero: iniciante em programação - 75hs</h4>
+  <ul>
+    <li>Lógica de programação: comece em lógica com o jogo Pong e JavaScript (de 01/02/2022 a 10/02/2022) 6hrs
+    <li>Lógica de programação: laços e listas com JavaScript (de 10/02/2022 a 14/02/2022) 4hrs
+    <li>Arquitetura de computadores: por trás de como seu programa funciona (de 26/02/2022 a 26/02/2022) 8hrs
+    <li>Linux I: conhecendo e utilizando o terminal (de 26/02/2022 a 26/02/2022) 4hrs
+    <li>HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags (de 21/01/2023 a 24/01/2023) 8hrs
+    <li>HTML e CSS: Classes, posicionamento e Flexbox (de 23/02/2023 a 28/02/2023) 8hrs
+    <li>HTML e CSS: cabeçalho, footer e variáveis CSS (de 28/02/2023 a 01/03/2023) 6hrs
+    <li>HTML e CSS: trabalhando com responsividade e publicação de projetos (de 01/03/2023 a 01/03/2023) 6hrs
+    <li>JavaScript para Web: Crie páginas dinâmicas (de 26/02/2022 a 21/03/2022) 10hrs
+    <li>Git e GitHub: repositório, commit e versões (de 03/02/2023 a 01/03/2023) 8hrs
 Conteúdos complementares:
-Alura+: Qual é a diferenca entre back-end e front-end? - 14min
-Hipsters: CSS: Cansei de Ser Simples – Hipsters #09 - 50min
-Alura+: EMMET: Instalação e comandos no Atom - 12min
-Alura+: Data Attributes do HTML5 - 12min
-Artigo: 5 dúvidas de quem quer iniciar na carreira de programação - Blog da Caelum: desenvolvimento, web, mobile, UX e Scrum - 30min
-Artigo: Como escolher minha carreira em TI? | Alura Cursos Online - 30min
-Artigo: Trabalhando com caminhos e pastas no terminal | Alura Cursos Online - 30min
-Artigo: HTML, CSS e Javascript, quais as diferenças? | Alura Cursos Online - 30min
-Artigo: Centralizando um elemento com CSS - Blog da Alura - 30min
-Artigo: Guia de Unidades no CSS - Blog da Alura - 30min
-Artigo: Capturando valor do input: introdução a seletores - Blog da Alura - 30min
-Artigo: Como escrever um README incrível no seu Github - 30min
-Video: Alura Live #59 - Como entrar no mercado de trabalho de programação? - YouTube - 60min
-Ocultar Formação
-Formação: Iniciante em Programação - 79hs
+    <li>Alura+: Qual é a diferenca entre back-end e front-end? - 14min
+    <li>Hipsters: CSS: Cansei de Ser Simples – Hipsters #09 - 50min
+    <li>Alura+: EMMET: Instalação e comandos no Atom - 12min
+    <li>Alura+: Data Attributes do HTML5 - 12min
+    <li>Artigo: 5 dúvidas de quem quer iniciar na carreira de programação - Blog da Caelum: desenvolvimento, web, mobile, UX e Scrum - 30min
+    <li>Artigo: Como escolher minha carreira em TI? | Alura Cursos Online - 30min
+    <li>Artigo: Trabalhando com caminhos e pastas no terminal | Alura Cursos Online - 30min
+    <li>Artigo: HTML, CSS e Javascript, quais as diferenças? | Alura Cursos Online - 30min
+    <li>Artigo: Centralizando um elemento com CSS - Blog da Alura - 30min
+    <li>Artigo: Guia de Unidades no CSS - Blog da Alura - 30min
+    <li>Artigo: Capturando valor do input: introdução a seletores - Blog da Alura - 30min
+    <li>Artigo: Como escrever um README incrível no seu Github - 30min
+    <li>Video: Alura Live #59 - Como entrar no mercado de trabalho de programação? - YouTube - 60min
+  </ul>
+
+    Formação: Iniciante em Programação - 79hs
 Cursos:
 Lógica de programação: comece em lógica com o jogo Pong e JavaScript (de 01/02/2022 a 10/02/2022) 6hrs
 Lógica de programação: laços e listas com JavaScript (de 10/02/2022 a 14/02/2022) 4hrs
