@@ -18,6 +18,10 @@
 <a href="https://gabrielitaqui.github.io/Curriculo-Gabriel-Itaqui/" target="_blank"> Meu currículo </a> <br>
 <a href="https://cursos.alura.com.br/user/itaquigabriel/fullCertificate/4ef2d6781224cd05336eb3111cdb494d" target="_blank">Minhas formações na Alura</a> <br>
 
+<h3> Projetos </h3>
+  <ul>
+  <li><a href="https://gabrielitaqui.github.io/alurabooks/">AluraBooks</a> - Foi utilizado HTML, CSS e Importação de API's em JavaScript<li>
+
 <h3>Cursos Concluidos pela Alura (487 horas):</h3>
 
   <h4>Formação: Iniciante em Programação - 79hs</h4>
