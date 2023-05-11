@@ -18,7 +18,7 @@
 <a href="https://gabrielitaqui.github.io/Curriculo-Gabriel-Itaqui/" target="_blank"> Meu currículo </a> <br>
 <a href="https://cursos.alura.com.br/user/itaquigabriel/fullCertificate/4ef2d6781224cd05336eb3111cdb494d" target="_blank">Minhas formações na Alura</a> <br>
 
-<h3>Cursos Concluidos pela Alura (676 horas):</h3>
+<h3>Cursos Concluidos pela Alura (487 horas):</h3>
   <h4>Formação: Crie projetos em Dart, a linguagem utilizada no Flutter - 55hs</h4>
   <ul>
     <li>Criação e manipulação de variáveis e listas 10hrs</li>
