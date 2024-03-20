@@ -21,6 +21,7 @@
 <h3> Projetos </h3>
   <ul>
   <h4>Projetos Feitos com a Alura</h4>
+    <li><a href="https://organo-seven-red.vercel.app">Organo</a> - Foi utilizado Node e React com CSS para a criação do Organo</li>
     <li><a href="https://gabrielitaqui.github.io/alurabooks/">AluraBooks</a> - Foi utilizado HTML, CSS e Importação de API's em JavaScript</li>
     <li><a href="https://gabrielitaqui.github.io/mochilaViagem/">Mochila de Viagem</a> - Projeto com HTML CSS e JavaScript</li>
     <li><a href="https://gabrielitaqui.github.io/aluraplus/"> AluraPlus</a> - Projeto com HTML e CSS</li>
